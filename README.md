@@ -7,7 +7,6 @@ Machine learning project that predicts which employees are likely to leave a com
 | Attrition_Model_Notebook.ipynb | Full model notebook (EDA, modelling, tuning, feature importance) |
 | Evaluation_Report.docx | Model evaluation and comparison report |
 | Business_Interpretation_Report.docx | Findings and recommendations for HR |
-| outputs/ | Saved plots and metric tables |
 
 ## Approach
 - Classification target:Attrition (Yes/No)
